@@ -4,7 +4,7 @@
 
 #  Installation
 
-###1.  ``` git clone https://github.com/heroWomen/resume-react.git ```
+###1.  ``` git clone https://github.com/heroWomen/my-resume.git ```
 
 ###2.  ``` cd resume-react ```
 
