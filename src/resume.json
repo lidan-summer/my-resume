@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "张志进",
+    "label": "前端攻城狮",
+    "picture": "dist/images/profilePhoto.jpg",
+    "email": "15067179123@163.com",
+    "phone": "15067179123",
+    "website": "https://github.com/heroWomen",
+    "summary": "1.我是一个性格温和，不冲动，头脑冷静的人，与同事，朋友相处会很愉快。2.个人非常喜欢前端这门技术，愿意为成为一个前端大牛而努力奋斗。3.平时喜欢逛Github，对热门的前端相关技术非常有兴。",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "杭州",
+      "countryCode": "中国",
+      "region": "西湖"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "heroWomen",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "heroWomen",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "浙江老娘舅餐饮有限公司",
+      "position": "副店长",
+      "website": "",
+      "startDate": "2013-03-15",
+      "endDate": "2015-9-15",
+      "summary": "1.在做餐厅管理的过程中,能熟练操作前台POS机,也对美团,饿了么等外卖平台有很好的了解!2.参加过本公司和其他公司组织的管理培训,对管理经营有自己的理解,所以对自己的工作有清晰的规划3.因为有过2年半的服务行业经历,能够明白同事所需,也能体会在工作上的不容易,沟通能力较强4.在餐厅内要经常对数据进行分析,所以对数据比较敏感",
+      "highlights": [
+        "同事间的工作能够互相理解",
+        "能够做到日事日毕，有始有终",
+        "能够严格按照规范完成任务"
+      ]
+    },
+    {
+      "company": "软通动力",
+      "position": "前端开发",
+      "website": "",
+      "startDate": "2016-03-01",
+      "endDate": "2016-05-31",
+      "summary": "1. 使用yeoman, gulp, webpack 搭建脚手架。2. 使用react框架，搭配ES2015和jsx编写js。3. 使用less编写样式。4. 利用ajax处理前后台数据的交互。5 熟练使用git上传下载代码。",
+      "highlights": [
+        "团队里会互相沟通交流",
+        "特别有激情",
+        "能够做到日事日毕，有始有终"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "上饶师范学院",
+      "area": "经济学",
+      "studyType": "财务管理",
+      "startDate": "2008-09",
+      "endDate": "2012-07",
+      "gpa": "初级会计资格证",
+      "courses": ["计算机基础", "会计", "财务管理"]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "前端工程师",
+      "level": "初级",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "jQuery",
+        "React",
+        "LESS",
+        "Gulp",
+        "Grunt",
+        "Node",
+        "php",
+        "MySQL",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "中文",
+      "fluency": "普通话二甲"
+    }
+  ],
+  "interests": [
+    {
+      "name": "运动",
+      "keywords": ["NBA", "欧洲杯", "跑步", "健身", "减肥"]
+    },
+    {
+      "name": "编程",
+      "keywords": ["Web", "Javascript", "Node", "CSS3"]
+    }
+  ],
+  "references": []
+}
