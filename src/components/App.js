@@ -5,6 +5,7 @@ import Work from './Work';
 import WorkItem from './WorkItem';
 import Skills from './Skills';
 import Education from './Education';
+import Interests from './Interests';
 
 export default class App extends React.Component {
 
@@ -26,7 +27,8 @@ export default class App extends React.Component {
       const workData = this.state.jsonObj.work;
       const skillsData = this.state.jsonObj.skills;
       const educationData = this.state.jsonObj.education;
-      // console.log(profileData)
+      const interestsData = this.state.jsonObj.interests;
+      // console.log(interestsData)
       return (
               <div className="container">
                 <div className="row">
@@ -41,6 +43,7 @@ export default class App extends React.Component {
                       <Work workData={workData} />
                       <Skills skillsData={skillsData} />
                       <Education educationData={educationData} />
+                      <Interests interestsData={interestsData} />
                     </div>
                   </main>
                 </div>
