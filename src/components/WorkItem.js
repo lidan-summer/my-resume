@@ -19,11 +19,15 @@ export default class WorkItem extends React.Component {
       return (<li>{item}</li>)
     });
 
+    let getWorkSummarys = this.props.workItemData.summary.map(function(item) {
+      return (<p>{item}</p>)
+    })
+
     return (
         <div className="workItem">
           <h3>{this.props.workItemData.position}, <span>{this.props.workItemData.company}</span></h3>
           <p className="workDates">{this.getWorkDates()}</p>
-          <p>{this.props.workItemData.summary}</p>
+          <h4>{getWorkSummarys}</h4>
           <ul>{getHighlights}</ul>
         </div>
     )

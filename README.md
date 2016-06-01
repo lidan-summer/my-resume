@@ -4,12 +4,12 @@
 
 #  Installation
 
-###1.  ``` git clone https://github.com/heroWomen/my-resume.git ```
+1.  ``` git clone https://github.com/heroWomen/my-resume.git ```
 
-###2.  ``` cd resume-react ```
+2.  ``` cd resume-react ```
 
-###3.  ``` npm install ```
+3.  ``` npm install ```
 
-###4.  ``` gulp watch ```
+4.  ``` gulp watch ```
 
 ##  然后你就可以看到我的简历了！！！

@@ -19787,6 +19787,14 @@ var WorkItem = function (_React$Component) {
         );
       });
 
+      var getWorkSummarys = this.props.workItemData.summary.map(function (item) {
+        return _react2.default.createElement(
+          'p',
+          null,
+          item
+        );
+      });
+
       return _react2.default.createElement(
         'div',
         { className: 'workItem' },
@@ -19807,9 +19815,9 @@ var WorkItem = function (_React$Component) {
           this.getWorkDates()
         ),
         _react2.default.createElement(
-          'p',
+          'h4',
           null,
-          this.props.workItemData.summary
+          getWorkSummarys
         ),
         _react2.default.createElement(
           'ul',
